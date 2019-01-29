@@ -1,0 +1,52 @@
+
+.overlay{
+    background: rgba(0, 0, 0, 0.616);
+   
+    height: 100vh;
+   
+}
+
+.brackets{
+    color: rgb(58, 255, 163);
+    font-weight: bold;
+}
+pre {
+    margin-top: 15rem;
+    color: rgb(71, 243, 255);
+    font-size: 1.5rem;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bolder;
+    position: absolute;
+    z-index: 100;
+    top: 0;
+    left: 0;
+}
+
+#tagline {
+    color: silver;
+    font-weight: 100;
+}
+
+#pow-txt {
+    display: none;
+    font-weight: 100;
+    color: #e3e3e3 !important;
+}
+.navbar{
+    background: rgb(22, 22, 22) !important;
+}
+.navbar .nav-link{
+    color: whitesmoke !important;
+}
+i{
+   color: white;
+    font-size: 2rem;
+}
+
+
+
+
+
+
+
+
